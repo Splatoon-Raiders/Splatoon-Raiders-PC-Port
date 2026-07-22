@@ -1,4 +1,4 @@
-# Splatoon Raiders PC — Nintendo Switch 2 & PC Port Guide
+# Splatoon Raiders PC — Nintendo Switch 2 & PC Port
 
 **Splatoon Raiders PC** is a complete release and platform guide for Splatoon Raiders, including the Nintendo Switch 2 launch, gameplay, multiplayer, Deep Cut, Salmonids, PC port status, and Nintendo Switch emulator search context.
 
